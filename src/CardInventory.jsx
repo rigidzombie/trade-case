@@ -5,7 +5,7 @@ import { Search, RefreshCw, ExternalLink, SlidersHorizontal, X } from "lucide-re
 // ---------------------------------------------------------------------------
 // CONFIG — edit these three things and the site is yours
 // ---------------------------------------------------------------------------
-const SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/1JYrPAnoKZyDyT1EUv7DHtkDu-oa_NI15hSRN-YJu6Tc/edit?usp=sharing"; // paste your published Google Sheet CSV link here
+const SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vR7hEWFEI-hLmS_3MwyrNdTYdmLcgZRGOpnUEsDGl7qamvIGLnukpfgzDS0W9usxTxMrg4tnH5u4H1F/pub?output=csv"; // paste your published Google Sheet CSV link here
 const CONTACT_LABEL = "@Route301";
 const CONTACT_URL = "https://discordapp.com/users/314530512293068802";
 
