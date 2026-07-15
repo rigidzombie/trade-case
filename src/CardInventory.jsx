@@ -11,15 +11,6 @@ const CONTACT_URL = "https://discordapp.com/users/314530512293068802";
 
 const CONDITION_ORDER = ["NM", "LP", "MP", "HP", "DMG"];
 
-const SAMPLE_ROWS = [
-  { name: "Charizard ex", set: "Obsidian Flames", number: "125/197", category: "TCG", condition: "NM", price: "42", image: "", available: "yes" },
-  { name: "Umbreon VMAX Alt Art", set: "Evolving Skies", number: "215/203", category: "TCG", condition: "LP", price: "310", image: "", available: "yes" },
-  { name: "Ken Griffey Jr. Rookie", set: "1989 Upper Deck", number: "1", category: "Sports", condition: "PSA 8", price: "180", image: "", available: "yes" },
-  { name: "Mewtwo Base Set", set: "Base Set", number: "10/102", category: "TCG", condition: "MP", price: "65", image: "", available: "no" },
-  { name: "LeBron James Rookie", set: "2003 Topps Chrome", number: "111", category: "Sports", condition: "PSA 7", price: "225", image: "", available: "yes" },
-  { name: "Lugia 1st Edition", set: "Neo Genesis", number: "9/111", category: "TCG", condition: "HP", price: "95", image: "", available: "yes" },
-];
-
 // ---------------------------------------------------------------------------
 
 function conditionRank(c) {
